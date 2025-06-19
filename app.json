@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "amrutam-routine-app",
+    "slug": "amrutam-routine-app",
+    "version": "1.0.0",
+    "entryPoint": "./App.js",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "amrutamroutine",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.adityapratap.amrutamroutine",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "64dc36bb-a1e4-45f2-8ec7-f80f44647796"
+      }
+    }
+  }
+}

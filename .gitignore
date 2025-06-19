@@ -1,0 +1,8 @@
+node_modules
+.expo
+.eas
+.vscode
+dist
+*.log
+*.ts
+*.tsx

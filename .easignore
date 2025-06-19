@@ -1,0 +1,13 @@
+node_modules
+.git
+.vscode
+assets/fonts/
+assets/images/unused/
+__tests__/
+coverage/
+*.ts
+*.tsx
+*.log
+*.DS_Store
+*.bak
+*.tmp
