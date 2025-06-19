@@ -1,8 +1,7 @@
 node_modules
 .git
 .vscode
-assets/fonts/
-assets/images/unused/
+assets/unused/
 __tests__/
 coverage/
 *.ts
