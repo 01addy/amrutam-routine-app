@@ -57,6 +57,7 @@ Here’s how a user flows through the app:
 
 ## 🧱 Project Structure
 
+```plaintext
 amrutam-routine-app/
 ├── assets/                         # App icons, splash, and images
 │   ├── icon.png
@@ -97,6 +98,8 @@ amrutam-routine-app/
 ├── eas.json                        # EAS Build configuration
 ├── babel.config.js                 # Babel compiler settings
 └── README.md                       # Project documentation
+```
+
 ---
 
 ## 👨‍💻 About the Developer
