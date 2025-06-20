@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44ae5f90-3f0f-4fba-8342-78519e1f6e52)# 🌿 Amrutam Routine App
+🌿 Amrutam Routine App
 
 A comprehensive React Native application built for the **Amrutam React Native Internship Assignment**. The app is designed to create and manage personalized wellness routines for patients with caregiver support and weekly health insights.
 
