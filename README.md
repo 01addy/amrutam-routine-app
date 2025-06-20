@@ -97,7 +97,6 @@ amrutam-routine-app/
 ├── eas.json                        # EAS Build configuration
 ├── babel.config.js                 # Babel compiler settings
 └── README.md                       # Project documentation
-
 ---
 
 ## 👨‍💻 About the Developer
