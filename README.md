@@ -1,8 +1,10 @@
-# 🌿 Amrutam Routine App
+![image](https://github.com/user-attachments/assets/44ae5f90-3f0f-4fba-8342-78519e1f6e52)# 🌿 Amrutam Routine App
 
 A comprehensive React Native application built for the **Amrutam React Native Internship Assignment**. The app is designed to create and manage personalized wellness routines for patients with caregiver support and weekly health insights.
 
 ---
+
+## .apk file download link- https://expo.dev/accounts/01_addy/projects/amrutam-routine-app/builds/bd906a5a-aa6a-44a0-919d-655c0341a6eb
 
 ## 📱 What the App Does
 
@@ -56,46 +58,45 @@ Here’s how a user flows through the app:
 ## 🧱 Project Structure
 
 amrutam-routine-app/
+├── assets/                         # App icons, splash, and images
+│   ├── icon.png
+│   ├── adaptive-icon.png
+│   └── splash-icon.png
 │
-├── assets/ # App icons, splash, and images
-│ ├── icon.png
-│ ├── adaptive-icon.png
-│ └── splash-icon.png
+├── components/                     # Reusable UI components
+│   ├── Header.js
+│   ├── InputField.js
+│   ├── PrimaryButton.js
+│   ├── RoutineCard.js
+│   ├── RoutineSummaryBlock.js
+│   └── ...
 │
-├── components/ # Reusable UI components
-│ ├── Header.js
-│ ├── InputField.js
-│ ├── PrimaryButton.js
-│ ├── RoutineCard.js
-│ ├── RoutineSummaryBlock.js
-│ └── ...
+├── constants/                      # Predefined static values
+│   ├── categories.js
+│   ├── colors.ts
+│   ├── daysOfWeek.js
+│   └── units.js
 │
-├── constants/ # Predefined values
-│ ├── categories.js
-│ ├── colors.ts
-│ ├── daysOfWeek.js
-│ └── units.js
+├── screens/                        # All app screens (UI + logic)
+│   ├── Dashboard.js
+│   ├── BasicDetails.js
+│   ├── ReminderItems.js
+│   ├── ReminderChannels.js
+│   ├── WeeklyBenefits.js
+│   ├── AssignCaregiver.js
+│   ├── FinalSummary.js
+│   └── AboutDeveloper.js
 │
-├── screens/ # App screens (UI + logic)
-│ ├── Dashboard.js
-│ ├── BasicDetails.js
-│ ├── ReminderItems.js
-│ ├── ReminderChannels.js
-│ ├── WeeklyBenefits.js
-│ ├── AssignCaregiver.js
-│ ├── FinalSummary.js
-│ └── AboutDeveloper.js
+├── utils/                          # Helper functions and local storage
+│   ├── validators.js
+│   ├── storage.js
+│   └── data.js
 │
-├── utils/ # Helper functions and local storage
-│ ├── validators.js
-│ ├── storage.js
-│ └── data.js
-│
-├── App.js # Main navigation and root stack
-├── app.json # Expo config
-├── eas.json # EAS Build config
-├── babel.config.js # Babel compiler settings
-└── README.md # Project info
+├── App.js                          # Main navigation and stack config
+├── app.json                        # Expo configuration
+├── eas.json                        # EAS Build configuration
+├── babel.config.js                 # Babel compiler settings
+└── README.md                       # Project documentation
 
 ---
 
