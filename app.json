@@ -3,7 +3,6 @@
     "name": "amrutam-routine-app",
     "slug": "amrutam-routine-app",
     "version": "1.0.0",
-    "entryPoint": "./App.js",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "scheme": "amrutamroutine",
