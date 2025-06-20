@@ -5,6 +5,7 @@ A comprehensive React Native application built for the **Amrutam React Native In
 ---
 
 ## .apk file download link- https://expo.dev/accounts/01_addy/projects/amrutam-routine-app/builds/bd906a5a-aa6a-44a0-919d-655c0341a6eb
+## Screen recording of workflow- https://drive.google.com/file/d/1Dsk9K_JFOO5GL9gBblcIdvBzNeSPZoxz/view?usp=sharing
 
 ## 📱 What the App Does
 
@@ -116,7 +117,7 @@ Developed with ❤️ by **Aditya Pratap Singh**
 ## 🔗 Important Links
 
 - 📦 **Download APK**: [[Expo Build Link](https://expo.dev/accounts/01_addy/projects/amrutam-routine-app/builds/bd906a5a-aa6a-44a0-919d-655c0341a6eb)](https://expo.dev/accounts/01_addy/projects/amrutam-routine-app/builds/bd906a5a-aa6a-44a0-919d-655c0341a6eb)
-- 🎥 **Screen Recording**: 
+- 🎥 **Screen Recording**: https://drive.google.com/file/d/1Dsk9K_JFOO5GL9gBblcIdvBzNeSPZoxz/view?usp=sharing
 
 
 ---
